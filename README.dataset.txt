@@ -1,6 +1,5 @@
-# Concealed Weapon Detection > 2024-08-02 1:45pm
+Dataset availability
+
+https://www.kaggle.com/datasets/ashokcse02/concealed-weapon-detection-dataset
+
 https://universe.roboflow.com/ali-sarwar-jxcis/concealed-weapon-detection
-
-Provided by a Roboflow user
-License: CC BY 4.0
-
